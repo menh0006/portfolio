@@ -51,7 +51,7 @@
 }
 
 /* removes ul styling for the brand section */ 
-ul {
+.brand ul {
     list-style-type: none;
 }
 
