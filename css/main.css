@@ -42,6 +42,26 @@
     --bs-btn-disabled-border-color: var(--bs-primary-darker);
 }
 
+/* SKIP LINKS STYLING */ 
+
+.skip-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .skip-links a{
+    position: absolute;
+    top: -3em;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .skip-links a:focus {
+    top: 0;
+  }
+
 /* x-x-x-x-x-x-x-x-x-x-x Home Page x-x-x-x-x-x-x-x-x-x-x*/ 
 
 /* adds background image for the main banner */
@@ -55,7 +75,7 @@
     list-style-type: none;
 }
 
-/* x-x-x-x-x-x-x-x-x Footer x-x-x-x-x-x-x-x-x-x*/
+/* x-x-x-x-x-x-x-x-x FOOTER x-x-x-x-x-x-x-x-x-x*/
 
 /* Social media styling */ 
 
