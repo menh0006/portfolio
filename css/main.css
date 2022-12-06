@@ -46,7 +46,7 @@
 
 /* adds background image for the main banner */
 .banner-info {
-    background: url(../images/me\ portfolio-1400_x_635.JPG) no-repeat center;
+    background: url(../images/me-portfolio-1400_x_635.JPG) no-repeat center;
     background-size: cover;
 }
 
@@ -59,6 +59,6 @@ ul {
 
 /* Social media styling */ 
 
-.bi:hover {
+.bi-facebook:hover, .bi-instagram:hover {
     background-color: #b78a01da; 
 }
