@@ -62,7 +62,14 @@
             <div class="col-md-7">
                 <!-- align items center mainly to center the image-->
                 <div class="card card-fluid bg-light rounded-0 border-0 d-flex align-items-center p-3">
-                    <img src="images/me-snow-400_x_400.JPG" alt="me in the snow" class="rounded-circle border border-primary">
+                    <img
+                         srcset="images/me-snow-200_x_200.JPG 200w,
+                                 images/me-snow-400_x_400.JPG 400w"
+                                 
+                         sizes="(max-width: 500px)  200px,
+                                (max-width: 3000px) 400px"   
+                         src="images/me-snow-400_x_400.JPG"    
+                         alt="me in the snow" class="rounded-circle border border-primary">
 
                     <div class="card-body bg-light" role="complementary">
                       <p class="card-text mt-3" itemscope itemtype="https://schema.org/Person"> Hi there! My name is <span itemprop="name">Amine</span>, I am 24 and currently studying <span class="fw-bold" itemprop="jobTitle"> Interactive Media Design</span> at <span>itemprop="brand" Algonquin College.</span> I have a strong background in <span class="fw-bold"> Marketing & Management </span>, with a bachelors degree in <span class="fw-bold"> International Business Management </span> and a Post-Graduate Certificate in <span class="fw-bold"> Marketing Management. </span> </p>
