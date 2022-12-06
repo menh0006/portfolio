@@ -1,8 +1,19 @@
+/********** Home Page *******/
+
+/* adds background image for the main banner */
 .banner-info {
     background: url(../images/me\ portfolio-1400_x_635.JPG) no-repeat center;
     background-size: cover;
 }
 
+/* removes ul styling for the brand section */ 
 ul {
     list-style-type: none;
+}
+
+:root {
+    --bs-primary: #CCAE55;
+    --bs-primary-rgb: 204, 174, 85;
+    --bs-secondary: #fdecdb;
+    --bs-secondary-rgb: 253, 236, 219;
 }
