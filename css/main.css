@@ -42,7 +42,7 @@
     --bs-btn-disabled-border-color: var(--bs-primary-darker);
 }
 
-/* SKIP LINKS STYLING */ 
+/* SKIP LINKS STYLING TO HIDE THEM */ 
 
 .skip-links {
     list-style: none;
