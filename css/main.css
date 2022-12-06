@@ -3,6 +3,7 @@
 /* customizes colors */ 
 :root {
     --bs-primary: #CCAE55;
+    --bs-primary-darker:#b78a01da; 
     --bs-primary-rgb: 204, 174, 85;
     --bs-secondary: #fdecdb;
     --bs-secondary-rgb: 253, 236, 219;
@@ -25,6 +26,21 @@
     color: var(--bs-primary);
 }
 
+/* button styling */ 
+.btn:hover{
+    color: white;
+}
+.btn-primary {
+    --bs-btn-bg: var(--bs-primary);
+    --bs-btn-border-color: var(--bs-primary);
+    --bs-btn-hover-bg:  var(--bs-primary-darker);
+    --bs-btn-hover-border-color: var(--bs-primary-darker);
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: var(--bs-primary-darker);
+    --bs-btn-active-border-color: var(--bs-primary);
+    --bs-btn-disabled-bg: var(--bs-primary-darker);
+    --bs-btn-disabled-border-color: var(--bs-primary-darker);
+}
 
 /* Home Page */ 
 
