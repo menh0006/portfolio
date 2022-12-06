@@ -1,4 +1,4 @@
-/********** General Styling *******/
+/* x-x-x-x-x-x-x-x General Styling x-x-x-x-x-x-x-x-x-x */
 
 /* customizes colors */ 
 :root {
@@ -42,7 +42,7 @@
     --bs-btn-disabled-border-color: var(--bs-primary-darker);
 }
 
-/* Home Page */ 
+/* x-x-x-x-x-x-x-x-x-x-x Home Page x-x-x-x-x-x-x-x-x-x-x*/ 
 
 /* adds background image for the main banner */
 .banner-info {
