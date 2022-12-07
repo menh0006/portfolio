@@ -11,6 +11,8 @@ On the other hand, I felt somewhat limited on terms of what I could do and custo
 The main thing I learned was that things tend to appear scarier as they really are. As a student, we are subject to a lot of stress but I think that taking action is the best approach to overcome it. Immersing yourself in any subject can take you places, and in a few hours, you can learn to do something brand new (such as bootstrap for me). I of course also learned a lot about bootstrap and I really enjoyed its responsiveness as well as the inline styling for pretty much everything: grid, pictures, spacing etc... 
 It was definitely more enjoyable than doing everything on CSS, but both are complementary. 
 
+My goal now is to continue building on this portfolio. This would be just the foundation.
+
 ### List of resources
 
 - The framework and icons I used were all from [bootstrap](https://getbootstrap.com/).
