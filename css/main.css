@@ -82,3 +82,10 @@
 .bi-facebook:hover, .bi-instagram:hover {
     background-color: #b78a01da; 
 }
+
+/* CSS Animate Styling */
+/* Sets an attention seeker animation for all the buttons that requires the visitor to click on them */
+.btn {
+    animation: heartBeat;
+    animation-duration: 2s;
+}
