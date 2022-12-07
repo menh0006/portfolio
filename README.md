@@ -8,7 +8,8 @@ On the other hand, I felt somewhat limited on terms of what I could do and custo
 
 ## Learning and Takeaway.
 
-The main thing I learned was that things tend to appear scarier as they really are. As a student, we are subject to a lot of stress but I think that taking action is the best approach to overcome it. Immersing yourself in any subject can take you places, and in a few hours, you can learn to do something brand new (such as bootstrap for me). I also of course learned a lot about bootstrap and I really enjoyed its responsiveness as well as the inline styling for everything: grid, pictures, spacing etc...
+The main thing I learned was that things tend to appear scarier as they really are. As a student, we are subject to a lot of stress but I think that taking action is the best approach to overcome it. Immersing yourself in any subject can take you places, and in a few hours, you can learn to do something brand new (such as bootstrap for me). I of course also learned a lot about bootstrap and I really enjoyed its responsiveness as well as the inline styling for pretty much everything: grid, pictures, spacing etc... 
+It was definitely more enjoyable than doing everything on CSS, but both are complementary. 
 
 ### List of resources that are not my own
 
