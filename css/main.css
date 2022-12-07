@@ -81,6 +81,8 @@
 
 .bi-facebook:hover, .bi-instagram:hover {
     background-color: #b78a01da; 
+    animation: pulse;
+    animation-duration: 1s
 }
 
 /* CSS Animate Styling */
@@ -92,5 +94,5 @@
 
 .field:hover{
     animation: pulse;
-    animation-duration: 1s;
+    animation-duration: 2s;
 }
