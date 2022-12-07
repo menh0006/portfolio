@@ -85,7 +85,12 @@
 
 /* CSS Animate Styling */
 /* Sets an attention seeker animation for all the buttons that requires the visitor to click on them */
-.btn {
+.more{
     animation: heartBeat;
-    animation-duration: 2s;
+    animation-duration: 1.5s;
+}
+
+.field:hover{
+    animation: pulse;
+    animation-duration: 1s;
 }
