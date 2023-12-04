@@ -62,11 +62,19 @@
     top: 0;
   }
 
+  .portfolio-link, .portfolio-link:hover {
+    text-decoration: none;
+    color: var(--bs-primary-darker);
+  }
+
+  .logo-img {
+    height: 100px;
+  }
 /* x-x-x-x-x-x-x-x-x-x-x Home Page x-x-x-x-x-x-x-x-x-x-x*/ 
 
 /* adds background image for the main banner */
-.banner-info {
-    background: url(../images/me-portfolio-1400_x_635.JPG) no-repeat center;
+.banner-info{
+    background: url(../images/landing.jpeg) no-repeat center;
     background-size: cover;
 }
 
